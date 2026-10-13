@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Sorting
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
