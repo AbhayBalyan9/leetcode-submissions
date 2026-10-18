@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -76,10 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Array
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -89,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -109,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Indexed Tree
 |  |
@@ -118,4 +125,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
