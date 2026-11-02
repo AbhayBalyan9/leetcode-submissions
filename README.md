@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -111,12 +112,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Indexed Tree
