@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/AbhayBalyan9/leetcode-submissions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Dynamic Programming
 |  |
 | ------- |
